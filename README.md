@@ -1,4 +1,4 @@
-#rubyenv
+#golangenv
 
 This tool is inspired by [nodeenv](https://github.com/ekalinin/nodeenv) and allows you to install golang into your virtualenvs.
 
